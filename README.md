@@ -12,7 +12,7 @@ Once the prerequisites have been met and the user parameters are specified, user
 
 The notebook is self-contained and can be run independently.
 
-* [similarity-matching.ipynb](./similarity-matching.ipynb) : This notebook explores product description enhancement using the open-source GenAI model, Gemma, and evaluates its performance against Google's base models like Gemini as well as with human-alignment preferences.
+* [similarity-matching.ipynb](./similarity-matching.ipynb) : This notebook showcases similarity matching using text embeddings and Vertex AI Vector Search to identify related accounts based on their address descriptions
 
 
 ### Prerequisites
